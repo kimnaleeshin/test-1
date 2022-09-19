@@ -1,0 +1,2 @@
+new textfile is made at git_home directory. 
+
